@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "152540451192",
+    "project_id": "mine-is-yours-3f2ae",
+    "storage_bucket": "mine-is-yours-3f2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152540451192:android:d6d7b13946b95c8be1f88d",
+        "android_client_info": {
+          "package_name": "com.example.mus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152540451192-527edobve9hgd74utkpg1u78aek7595c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByp9SuRRPsnjJlgP6f4yKZKzuxGk6QxyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152540451192-527edobve9hgd74utkpg1u78aek7595c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152540451192-sbliicco0k2bfm66b5g0or64mkabrj9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.musApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
